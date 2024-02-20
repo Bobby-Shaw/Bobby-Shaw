@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bobby-Shaw
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning Python and SQL databases
+- 🌱 I am currently learning HTML and CSS
+- 💻 I have 2 years of experience with Pyhton
 - 📫 How to reach me shawuk2006@gmail.com
 
 <!---
