@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bobby-Shaw
 - 👀 I’m interested in becoming Full-Stack developer
-- 💻 Languages I know: Python, HTML, CSS
+- 💻 Languages I know: Python, JavaScript, Java, HTML, CSS
 - 🌱 I am currently learning JavaScript on scrimba
 - 📫 How to reach me: email - shawuk2006@gmail.com
 
